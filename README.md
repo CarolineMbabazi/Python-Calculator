@@ -1,6 +1,8 @@
 # Python Calculator
 This repository contains my first python project. 
 
+![Calculator](CalculatorImage.jpeg)
+
 ## How to Install
 The assumption is that you have python installed on your computer.
 
